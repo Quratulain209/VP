@@ -1,0 +1,26 @@
+D:\Visual Programming\winCleaningServicesScreen\winCleaningServicesScreen\bin\Debug\winCleaningServicesScreen.exe.config
+D:\Visual Programming\winCleaningServicesScreen\winCleaningServicesScreen\bin\Debug\winCleaningServicesScreen.exe
+D:\Visual Programming\winCleaningServicesScreen\winCleaningServicesScreen\bin\Debug\winCleaningServicesScreen.pdb
+D:\Visual Programming\winCleaningServicesScreen\winCleaningServicesScreen\obj\Debug\winCleaningServicesScreen.csproj.AssemblyReference.cache
+D:\Visual Programming\winCleaningServicesScreen\winCleaningServicesScreen\obj\Debug\winCleaningServicesScreen.csproj.SuggestedBindingRedirects.cache
+D:\Visual Programming\winCleaningServicesScreen\winCleaningServicesScreen\obj\Debug\winCleaningServicesScreen.Form1.resources
+D:\Visual Programming\winCleaningServicesScreen\winCleaningServicesScreen\obj\Debug\winCleaningServicesScreen.Properties.Resources.resources
+D:\Visual Programming\winCleaningServicesScreen\winCleaningServicesScreen\obj\Debug\winCleaningServicesScreen.csproj.GenerateResource.cache
+D:\Visual Programming\winCleaningServicesScreen\winCleaningServicesScreen\obj\Debug\winCleaningServicesScreen.csproj.CoreCompileInputs.cache
+D:\Visual Programming\winCleaningServicesScreen\winCleaningServicesScreen\obj\Debug\winCleaningServicesScreen.exe
+D:\Visual Programming\winCleaningServicesScreen\winCleaningServicesScreen\obj\Debug\winCleaningServicesScreen.pdb
+D:\Visual Programming\winCleaningServicesScreen\winCleaningServicesScreen\bin\Debug\IrisSkin2.dll
+D:\Visual Programming\winCleaningServicesScreen\winCleaningServicesScreen\obj\Debug\winCleaningServicesScreen.csproj.CopyComplete
+D:\Visual Programming\Lab Work\winCleaningServicesScreen\winCleaningServicesScreen\bin\Debug\winCleaningServicesScreen.exe.config
+D:\Visual Programming\Lab Work\winCleaningServicesScreen\winCleaningServicesScreen\bin\Debug\winCleaningServicesScreen.exe
+D:\Visual Programming\Lab Work\winCleaningServicesScreen\winCleaningServicesScreen\bin\Debug\winCleaningServicesScreen.pdb
+D:\Visual Programming\Lab Work\winCleaningServicesScreen\winCleaningServicesScreen\bin\Debug\IrisSkin2.dll
+D:\Visual Programming\Lab Work\winCleaningServicesScreen\winCleaningServicesScreen\obj\Debug\winCleaningServicesScreen.csproj.AssemblyReference.cache
+D:\Visual Programming\Lab Work\winCleaningServicesScreen\winCleaningServicesScreen\obj\Debug\winCleaningServicesScreen.csproj.SuggestedBindingRedirects.cache
+D:\Visual Programming\Lab Work\winCleaningServicesScreen\winCleaningServicesScreen\obj\Debug\winCleaningServicesScreen.Form1.resources
+D:\Visual Programming\Lab Work\winCleaningServicesScreen\winCleaningServicesScreen\obj\Debug\winCleaningServicesScreen.Properties.Resources.resources
+D:\Visual Programming\Lab Work\winCleaningServicesScreen\winCleaningServicesScreen\obj\Debug\winCleaningServicesScreen.csproj.GenerateResource.cache
+D:\Visual Programming\Lab Work\winCleaningServicesScreen\winCleaningServicesScreen\obj\Debug\winCleaningServicesScreen.csproj.CoreCompileInputs.cache
+D:\Visual Programming\Lab Work\winCleaningServicesScreen\winCleaningServicesScreen\obj\Debug\winCleaningServicesScreen.csproj.CopyComplete
+D:\Visual Programming\Lab Work\winCleaningServicesScreen\winCleaningServicesScreen\obj\Debug\winCleaningServicesScreen.exe
+D:\Visual Programming\Lab Work\winCleaningServicesScreen\winCleaningServicesScreen\obj\Debug\winCleaningServicesScreen.pdb
